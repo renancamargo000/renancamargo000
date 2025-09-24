@@ -42,9 +42,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -54,7 +51,25 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://postimg.cc/qzb85NSx" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <h3 align="left"> Este sou eu 👆 </h3>
+</div>
+
+<div align="center">
+  <h3 align="left"> Sou o Renan Marques, amante da inovação e estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Tenho como principal objetivo a busca constante por conhecimento e desenvolvimento pessoal e profissional.
+
+Possuo experiência consolidada nas áreas de Informática e TI, o que me proporcionou habilidades importantes como organização de processos, raciocínio analítico e uma forte capacidade para resolução de problemas.
+
+Atualmente, atuo como Analista de Suporte em TI, com foco na administração de sistemas, redes e suporte técnico aos usuários. No meu dia a dia, utilizo ferramentas de help desk, entre outras ferramentas.
+
+No campo do Desenvolvimento de Software, tenho conhecimentos em tecnologias de Front-End, como HTML, CSS e JavaScript, e estou em constante aprimoramento nessa área com o objetivo de me tornar um Desenvolvedor Front-End.
+
+Sou focado em fortalecer minha base técnica por meio do estudo contínuo de linguagens de programação e desenvolvimento, boas práticas de desenvolvimento e construção de projetos práticos, participando de imersões e projetos realizados.
+
+Acredito que a combinação entre suporte técnico, desenvolvimento de software e visão estratégica sobre sistemas é um diferencial que me impulsiona na construção de uma carreira sólida e versátil na área de tecnologia. </h3>
 </div>
 
 ###
