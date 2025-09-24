@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" height="25" alt="linkedin logo"  />
-  <img src="https://t3.ftcdn.net/jpg/05/07/46/84/360_F_507468479_HfrpT7CIoYTBZSGRQi7RcWgo98wo3vb7.jpg" height="25" alt="youtube logo"  />
+   <a href="https://www.linkedin.com/in/renanmarquescamargo0002/"><img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" height="25" alt="linkedin logo"></a>
 </div>
 
 ###
