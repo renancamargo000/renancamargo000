@@ -11,15 +11,15 @@
 
 ###
 
-<h1 align="center">👋 Olá! </h1>
+<h1 align="center">👋 Renan Marques Camargo </h1>
 
 ###
 
-<h3 align="left">👩‍💻  Um jovem em busca de conhecimento!</h3>
+<h3 align="left">👩‍💻  Um jovem em busca de conhecimento</h3>
 
 ###
 
-<p align="left">Eu sou o Renan Marques<br><br>- 🔭 Atualmente atuando como Analista de Suporte <br>- 📚 Em busca de Conhecimento e de uma realização de sonho! <br>- 👩‍💻 Me tornar um desenvolvedor Full Stack!</p>
+<p align="left">20 Anos<br><br>- 💼 Analista de Suporte <br>- 📚 Em busca de conhecimento e de uma realização de sonho! <br>- 👩‍💻 Me tornar um desenvolvedor Full Stack!</p>
 
 ###
 
