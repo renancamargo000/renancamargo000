@@ -51,11 +51,11 @@
 ###
 
 <div align="center">
-  <img src="https://postimg.cc/qzb85NSx" height="220" alt="streak graph"  />
+  <img src="https://i.postimg.cc/YCkbjgxZ/1744823558777.jpg" height="220" alt="eu-foto"  />
 </div>
 
 <div align="center">
-  <h3 align="left"> Este sou eu 👆 </h3>
+  <h3 align="center"> Este sou eu 👆 </h3>
 </div>
 
 <div align="center">
