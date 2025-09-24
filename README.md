@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.postimg.cc/YCkbjgxZ/1744823558777.jpg" height="220" alt="eu-foto"  />
+   <img src="https://i.postimg.cc/YCkbjgxZ/1744823558777.jpg" height="220" alt="eu-foto" style="border-radius: 30px;"  />
 </div>
 
 <div align="center">
