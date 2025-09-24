@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Eu sou o Renan Marques<br><br>- 🔭 Atualmente atuando como Analista de Suporte <br>- 📚 Em busca de Conhecimento e de uma realização de sonho! <br>- Me tornar um desenvolvedor Full Stack!</p>
+<p align="left">Eu sou o Renan Marques<br><br>- 🔭 Atualmente atuando como Analista de Suporte <br>- 📚 Em busca de Conhecimento e de uma realização de sonho! <br>- 👩‍💻 Me tornar um desenvolvedor Full Stack!</p>
 
 ###
 
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <h3 align="left"> Sou o Renan Marques, amante da inovação e estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Tenho como principal objetivo a busca constante por conhecimento e desenvolvimento pessoal e profissional.
+  <h6 align="left"> Sou o Renan Marques, amante da inovação e estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Tenho como principal objetivo a busca constante por conhecimento e desenvolvimento pessoal e profissional.
 
 Possuo experiência consolidada nas áreas de Informática e TI, o que me proporcionou habilidades importantes como organização de processos, raciocínio analítico e uma forte capacidade para resolução de problemas.
 
@@ -69,7 +69,7 @@ No campo do Desenvolvimento de Software, tenho conhecimentos em tecnologias de F
 
 Sou focado em fortalecer minha base técnica por meio do estudo contínuo de linguagens de programação e desenvolvimento, boas práticas de desenvolvimento e construção de projetos práticos, participando de imersões e projetos realizados.
 
-Acredito que a combinação entre suporte técnico, desenvolvimento de software e visão estratégica sobre sistemas é um diferencial que me impulsiona na construção de uma carreira sólida e versátil na área de tecnologia. </h3>
+Acredito que a combinação entre suporte técnico, desenvolvimento de software e visão estratégica sobre sistemas é um diferencial que me impulsiona na construção de uma carreira sólida e versátil na área de tecnologia. </h6>
 </div>
 
 ###
