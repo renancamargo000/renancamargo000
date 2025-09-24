@@ -64,7 +64,7 @@ Possuo experiência consolidada nas áreas de Informática e TI, o que me propor
 
 Atualmente, atuo como Analista de Suporte em TI, com foco na administração de sistemas, redes e suporte técnico aos usuários. No meu dia a dia, utilizo ferramentas de help desk, entre outras ferramentas.
 
-No campo do Desenvolvimento de Software, tenho conhecimentos em tecnologias de Front-End, como HTML, CSS e JavaScript, e estou em constante aprimoramento nessa área com o objetivo de me tornar um Desenvolvedor Front-End.
+No campo do Desenvolvimento de Software, tenho conhecimentos em tecnologias de Front-End, como HTML, CSS e JavaScript, e estou em constante aprimoramento nessa área com o objetivo de me tornar um Desenvolvedor Full Stack.
 
 Sou focado em fortalecer minha base técnica por meio do estudo contínuo de linguagens de programação e desenvolvimento, boas práticas de desenvolvimento e construção de projetos práticos, participando de imersões e projetos realizados.
 
